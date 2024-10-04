@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Indra7pro
+- 👀 I’m interested in electronics, coding, making stuff work.
+- 🌱 I’m currently learning python.
+- want to be my hero Tony Stark aka `IRON MAN`
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Indra7pro/Indra7pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
