@@ -38,6 +38,8 @@ My goal is to become a **Robotics Engineer working on cutting-edge autonomous sy
 - Git & GitHub
 - Jupyter Notebook
 - VS Code
+- kiCad
+- onshape
 
 ---
 
@@ -64,14 +66,18 @@ My goal is to become a **Robotics Engineer working on cutting-edge autonomous sy
 - Remote control mode
 - Obstacle detection with ultrasonic sensor
 
----
+### ✈️ Autonomous Fixed-Wing Drone
+- Custom **ESP32-based flight computer**
+- Integrated **GPS + IMU sensors**
+- Capable of **semi-autonomous flight**
+- Focused on low-cost embedded flight control systems
 
-## 🎯 Current Goals
+### 🚁 Autonomous Waypoint Navigation Quadcopter
+- Flight controller: **Pixhawk**
+- Firmware: **ArduPilot**
+- Supports **autonomous waypoint navigation**
+- Used for testing autonomous flight missions
 
-- Build a **high-performance racing line follower**
-- Develop a **custom long-range RC system**
-- Learn **robotics algorithms and control systems**
-- Work in **advanced robotics companies abroad**
 
 ---
 
@@ -85,9 +91,8 @@ My goal is to become a **Robotics Engineer working on cutting-edge autonomous sy
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (Add when you create one)
-
+- GitHub: https://github.com/Indra7pro
+- LinkedIn: https://www.linkedin.com/in/indra7pro
 ---
 
 ⭐ *“Build. Break. Learn. Repeat.”*
