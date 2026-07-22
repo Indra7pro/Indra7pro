@@ -42,12 +42,6 @@ Quadcopter flight controller written in C (STM32 HAL) with Madgwick AHRS sensor 
 
 ---
 
-## 🖥️ Dev Environment
-
-Running **Bazzite** (immutable Fedora-based) on an ASUS ROG Strix G16, with a `distrobox` container dedicated to embedded tooling (`arm-none-eabi-gcc`, `openocd`, `avrdude`, `platformio`) and another for ROS2 Jazzy + Gazebo Harmonic with NVIDIA passthrough.
-
----
-
 ## 📫 Reach Me
 
 Feel free to explore my repos or open an issue if something catches your eye.
