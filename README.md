@@ -1,98 +1,56 @@
-# Hi 👋 I'm Indranil Mondal
+# Hi, I'm Indranil 👋
 
-🎓 Student | 🤖 Robotics Enthusiast | 💻 Developer | 🔧 Hardware Builder
+Engineering student at Netaji Subhash Engineering College (NSEC), building embedded systems and robotics — from flight controllers to industrial test machines.
 
-I love building things from scratch — from electronics and embedded systems to robotics and software.  
-My goal is to become a **Robotics Engineer working on cutting-edge autonomous systems.**
-
----
-
-## 🧠 About Me
-
-- 🎓 Science student interested in **Robotics, Embedded Systems, and AI**
-- ⚡ I enjoy building **hardware + software projects together**
-- 🔧 Working with microcontrollers like **STM32, ESP32, Arduino**
-- 📡 Exploring **wireless systems and RC communication**
-- 🧠 Currently learning **control systems, robotics programming, and system design**
+I work across the full hardware stack: microcontroller firmware, sensor fusion, motor control, and the serial/wireless links that tie it all to a GUI or ground station.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 What I Work With
 
-### Programming
-- C / C++
-- Python
-- R
-- Java
+**MCUs & Boards**
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
-### Embedded & Robotics
-- STM32
-- ESP32
-- Arduino
-- nRF24L01
-- HC-05 Bluetooth
-- PID Control Systems
+**Languages & Tools**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Tools
-- Linux (Arch)
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- kiCad
-- onshape
+**Domains**
+`Flight Controllers` · `Motor Control (BLDC/DC/Servo)` · `PID & Sensor Fusion` · `PCB Design` · `Serial/BT Protocols` · `ROS2 & Gazebo`
 
 ---
 
-## 🤖 Robotics & Hardware Projects
+## 🚀 Featured Projects
 
-### 🚗 Line Following Robot
-- STM32 based
-- PID control system
-- Curve detection
-- Speed control based on turning angle
+### 🧵 Jute Fiber Tensile Testing Machine
+Multi-module Arduino Mega firmware controlling 5 stepper-driven sample trays, a 6-DOF ST3215 bus servo arm, and dual BTS7960-driven pull/clamp mechanisms — with EEPROM-backed pose presets, limit-switch safety cutoffs, and a JSON serial protocol to a PySide6 GUI on Raspberry Pi.
 
-### 📡 Custom RC Transmitter
-- STM32 / ESP32 based
-- nRF24L01 wireless communication
-- Multi-channel remote control system
+### 🦾 SO-ARM100 Robotic Arm
+ESP32-driven 6-DOF arm using Feetech STS3215 bus servos over half-duplex TTL, with calibrated joint limits, named poses, and pick-and-place sequencing — built as a stepping stone toward ROS2/MoveIt2 integration.
 
-### 🚗 RC Car System
-- Joystick control
-- Bluetooth control using HC-05
-- Speed and direction control
+### 🛩️ STM32 Bare-Metal Flight Controller
+Quadcopter flight controller written in C (STM32 HAL) with Madgwick AHRS sensor fusion, ESP8266 WiFi telemetry, and DShot ESC control — benchmarked against Betaflight.
 
-### 🤖 Multi-Mode Robot
-- Line follower mode
-- Remote control mode
-- Obstacle detection with ultrasonic sensor
-
-### ✈️ Autonomous Fixed-Wing Drone
-- Custom **ESP32-based flight computer**
-- Integrated **GPS + IMU sensors**
-- Capable of **semi-autonomous flight**
-- Focused on low-cost embedded flight control systems
-
-### 🚁 Autonomous Waypoint Navigation Quadcopter
-- Flight controller: **Pixhawk**
-- Firmware: **ArduPilot**
-- Supports **autonomous waypoint navigation**
-- Used for testing autonomous flight missions
-
+### 🏎️ [LFR_Bluetooth](https://github.com/Indra7pro/LFR_Bluetooth)
+9-sensor analog IR line-following robot with weighted-centroid tracking and a PID loop tunable live over Bluetooth — no reflashing needed to retune Kp/Ki/Kd mid-run.
 
 ---
 
-## 📊 GitHub Stats
+## 🖥️ Dev Environment
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Indra7pro&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indra7pro&layout=compact&theme=tokyonight)
+Running **Bazzite** (immutable Fedora-based) on an ASUS ROG Strix G16, with a `distrobox` container dedicated to embedded tooling (`arm-none-eabi-gcc`, `openocd`, `avrdude`, `platformio`) and another for ROS2 Jazzy + Gazebo Harmonic with NVIDIA passthrough.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Reach Me
 
-- GitHub: https://github.com/Indra7pro
-- LinkedIn: https://www.linkedin.com/in/indra7pro
----
+Feel free to explore my repos or open an issue if something catches your eye.
 
-⭐ *“Build. Break. Learn. Repeat.”*
+<!-- Optional: add links -->
+<!-- [LinkedIn](#) · [Portfolio](#) · [Email](#) -->
