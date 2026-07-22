@@ -1,6 +1,6 @@
 # Hi, I'm Indranil 👋
 
-Engineering student at Netaji Subhash Engineering College (NSEC), building embedded systems and robotics — from flight controllers to industrial test machines.
+Engineering student at The Neotia University (TNU) , building embedded systems and robotics — from flight controllers to industrial test machines.
 
 I work across the full hardware stack: microcontroller firmware, sensor fusion, motor control, and the serial/wireless links that tie it all to a GUI or ground station.
 
